@@ -1,0 +1,48 @@
+
+ [
+    {
+      "title": "Fire TV Stick 4K Max streaming device, Wi-Fi 6, Alexa Voice Remote (includes TV controls)",
+      "guestCount": 20,
+      "bathroomCount": 88203,
+      "locationValue": "Amazon",
+      "price": 54.99,
+      "description": "Our most powerful streaming stick - 40% more powerful than Fire TV Stick 4K, with faster app starts and more fluid navigation",
+      "category": "Smart Home",
+      "roomCount": 17,
+      " imageSrc": "https://res.cloudinary.com/dps8xubee/image/upload/v1660338703/winnes/nlc8jt4ru2caihk3avai.webp",
+      "userId": "64a1ed483c9fd859441da3f6"
+     
+    },
+
+    {
+      "title": "Fitbit Sense 2 Advanced Health and Fitness Smartwatch with Tools to Manage Stress and Sleep, ECG App, SpO2, 24/7 Heart Rate and GPS, Shadow Grey/Graphite, One Size (S & L Bands Included)",
+      "guestCount":0,
+      "bathroomCount": 58,
+      "locationValue": "Fibit",
+      "price": 299.95,
+      "description": "Learn to manage stress, sleep better and live healthier with Sense 2—our most advanced health and fitness smartwatch",
+      "category": "Electronics",
+      "roomCount": 17,
+      " imageSrc": "https://res.cloudinary.com/dps8xubee/image/upload/v1660338502/winnes/c7zoa4ej6rdq0jbgzpk2.webp",
+     
+      "userId": "64a1ed483c9fd859441da3f6"
+      
+    },
+       
+    {
+      "title": "Sony-INZONE H7 Wireless Gaming headset, Over-ear Headphones with 360 Spatial Sound, WH-G700",
+      "guestCount":0,
+      "bathroomCount": 71,
+      "locationValue": "Sony",
+      "price": 229.99,
+      "description": "Personalized 360 Spatial Sound for Gaming for precise rival detection, Game for hours in comfort with soft headband and smooth ear pads,Discord certified, clear communications via a flexible flip-up boom microphone with mute function,Game freely with wireless connectivity and low delay",
+      "category": "PC gaming",
+      "roomCount": 17,
+      " imageSrc":"https://res.cloudinary.com/dps8xubee/image/upload/v1660341941/winnes/d33bnvfv512xuuhov4e1.webp",
+      "userId": "64a1ed483c9fd859441da3f6"
+     
+    }
+  
+      ]
+
+
